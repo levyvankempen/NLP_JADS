@@ -1,4 +1,4 @@
-Financial News Article Classification: GitHub Repository
+# Financial News Article Classification: GitHub Repository
 Overview:
 
 This repository contains the implementation of a text classification model designed to predict whether a company's stock (specifically APPL) goes up or down based on financial news articles. The project follows a structured approach from initial data exploration to modeling using machine learning algorithms.
